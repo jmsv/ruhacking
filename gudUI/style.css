@@ -1,0 +1,13 @@
+img {
+	opacity: 0;
+}
+img:hover {
+	opacity: 1;
+}
+
+* {
+	margin: auto;
+	width: 70%;
+	border: 20px ridge cyan;
+	padding: 1rem;
+}
