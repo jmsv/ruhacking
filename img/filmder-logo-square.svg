@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="filmder-logo-square.svg"
+   inkscape:export-filename="/home/james/gitr/ruhacking-front/img/filmder-logo-square.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-309.28571"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-28.362161)">
+    <circle
+       style="opacity:1;fill:#007bff;fill-opacity:1;stroke:none;stroke-width:5.6692915;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5533"
+       cx="512"
+       cy="540.36218"
+       r="510" />
+    <path
+       id="path4743"
+       d="m 530.80249,185.40285 c 6.25763,4.78522 11.68695,10.67467 17.6684,15.82804 54.01776,50.98091 103.52636,107.29922 143.37252,170.15122 38.55775,60.8274 68.19026,128.09657 81.34867,199.13857 7.26886,38.926 9.66244,78.8633 5.42842,118.25 -1.93161,16.4723 -4.7843,32.9445 -10.02965,48.6804 -7.36187,22.8219 -17.02428,44.9994 -30.27562,65.06055 -11.41089,17.3005 -25.67457,32.7603 -42.14674,45.2756 -18.12864,13.7115 -38.8339,23.7422 -60.36735,30.6437 -26.77974,8.5582 -54.84685,12.7913 -82.82108,15.0918 -33.40529,2.4837 -66.99384,2.944 -100.30541,-1.2881 -37.72966,-4.6933 -75.18305,-14.7239 -108.7716,-32.8525 -31.10395,-16.7482 -58.4349,-41.3176 -76.0114,-72.2383 -20.3372,-35.33705 -27.0549,-77.20765 -23.834,-117.60595 3.3128,-42.7908 16.9322,-84.2934 34.9689,-123.0351 15.6438,-33.3128 34.78487,-64.8766 56.04121,-94.87633 18.12865,-25.3984 37.6377,-49.78464 58.98799,-72.60642 0.36674,-0.27606 1.10424,-0.91986 1.56438,-1.19623 -0.36773,19.23278 1.47239,38.55775 6.9938,57.05443 5.61341,18.86483 15.09187,36.62535 27.69899,51.80915 0.73752,0.9199 1.28832,2.2086 2.66873,2.3935 27.33093,-20.5212 53.18957,-43.52694 73.34262,-71.22602 20.88923,-28.62027 34.87594,-62.11674 40.21419,-97.17767 7.08488,-45.36747 1.01257,-92.57549 -15.73597,-135.27434 z"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#df4723;stroke-width:0.08650196" />
+  </g>
+</svg>
