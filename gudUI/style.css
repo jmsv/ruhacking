@@ -11,3 +11,55 @@ img:hover {
 	border: 20px ridge cyan;
 	padding: 1rem;
 }
+
+*:hover {
+	border: 30px inset red;
+	padding: 10px, 17px;
+	margin: 50px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+html { 
+  background:  url(https://quaestio.org/qatalog/Spill-Out.gif) no-repeat center center fixed; 
+  background-size: cover;
+}
+h1{
+  font-family: 'Advent Pro', sans-serif;
+  font-size: 3em;
+  margin: .2em .5em;
+  color: rgba(0,0,0, 0.3);
+}
+body {
+    height: 100%;
+}
+
+/*
+:root {
+    cursor: url(http://www.wondermentpuppets.com/siteimages/jumpingfrog.gif), auto;
+}
+*/
+
+:root {
+    cursor: url(http://www.freepngimg.com/download/dog/48-small-puppy-png-image-picture-download-dogs.png) auto;
+}
+
+p {
+	font-size: 100px;
+	color: black;
+	font-weight: bold;
+	background-image: url(jumpingfrog.gif);
+}
+
+h3 {
+	font-size: 80px;
+	background-image: url(https://classroomclipart.com/images/gallery/Animations/frog_am.gif)
+}
+
+::selection {
+    color: yellow;
+    background: yellow;
+}
+
+input:hover {
+	background-color: cornflowerblue;
+}
