@@ -3,8 +3,7 @@ import csv
 import random
 import copy
 import json
-import urllib.request
-import urllib.parse
+import urllib
 import re
 
 '''
