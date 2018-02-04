@@ -39,3 +39,9 @@ html {
 .navbar-brand {
     margin: 0;
 }
+
+@media (min-width: 48em) {
+    .narrow-c {
+        max-width: 46rem;
+    }
+}

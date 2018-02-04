@@ -42,20 +42,38 @@
     <a class="hidden-lg-down btn btn-outline-primary" href="https://jamesevickery.github.io/ruhacking/login">Log out</a>
   </div>
 
-  <div class="container">
+  <div class="container narrow-c">
     <div class="card text-left">
       <div class="card-header">
-        todo: this where the interested/not interested thing should be
+        <table style="width:100%" ng-click="getNextFilm()">
+          <tr>
+            <td>
+              <img style="cursor:pointer" src="img/i-no.svg" height="30" alt="no">
+            </td>
+            <td align="right">
+              <img style="cursor:pointer" src="img/i-yes.svg" height="30" alt="yes">
+            </td>
+          </tr>
+        </table>
       </div>
       <div class="card-body">
         <h5 class="card-title">{{currentFilm.title}}
           <span class="badge badge-secondary">{{currentFilm.year}}</span>
         </h5>
-        <p class="card-text">{{currentFilm.desc}}</p>
-        <a href="" class="btn btn-primary">Seen it</a>
+        <p class="card-text"><strong>{{currentFilm.desc}}</strong></p>
+        <p class="card-text">Genre: {{currentFilm.genre}}</p>
+        <p class="card-text">Trailer: <a href="{{currentFilm.trailer_url}}">{{currentFilm.trailer_url}}</a></p>
+
+        <!-- <div>
+          <iframe width="420" height="315" ng-src="{{currentFilm.trailer_url}}">
+          </iframe>
+        </div> -->
+
+        <br>
+        <!-- <a href="" class="btn btn-primary">Seen it</a> -->
       </div>
       <div class="card-footer text-muted">
-        need to put something here
+        <!-- need to put something here -->
       </div>
     </div>
   </div>
